@@ -27,4 +27,4 @@ By M1 Al-Qahtani
 
 ## Contact
 
-- Instagram: [https://www.instagram.com/1e.az/]
+- [Instagram](https://www.instagram.com/1e.az/)
