@@ -4,8 +4,7 @@
 
 ## Installation
 
-   
-2. Install the required libraries:
+Install the required libraries:
 
      pip install pytube
    
@@ -19,7 +18,7 @@
 
 ## Requirements
 
-- Python 3.x
+- Python 
 - pytube library
 
 ## DEV
